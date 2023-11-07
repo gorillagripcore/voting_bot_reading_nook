@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = 'MTE3MTEyNTIwOTU4NDExMTc1OA.GLwHaM.MKI_mf_eBvyLkbrzr9Tqd4DdcnBTCJo7tr-b6k'
+TOKEN = 'your token'
 
 intents = discord.Intents.default()
 intents.messages = True
